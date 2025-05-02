@@ -2,11 +2,11 @@
 
 This is the github repository that accompanies the paper:
 
-Wade, A.R. & Baker, D.H. (2025). Measuring contrast processing in the visual system using the steady state visually evoked potential (SSVEP). Vision Research, 108614.
+Wade, A.R. & Baker, D.H. (2025). Measuring contrast processing in the visual system using the steady state visually evoked potential (SSVEP). Vision Research, 231: 108614.
 
 The paper is published here: https://doi.org/10.1016/j.visres.2025.108614
 
-An author's copy is available from here (Link to the compiled version on Github). 
+An author's copy is available from here: https://github.com/wadelab/contrastReviewPaper2025/blob/main/review.pdf 
 
 This paper is provided as a  [Quarto document](https://quarto.org/).
 
